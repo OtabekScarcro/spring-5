@@ -1,0 +1,12 @@
+package org.javacoders.specs;
+
+import org.javacoders.interfaces.Engine;
+
+public class V8 implements Engine{
+
+	@Override
+	public String type() {
+		return "V6 engine";
+	}
+
+}

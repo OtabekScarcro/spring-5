@@ -1,0 +1,9 @@
+package org.javacoders.cars;
+
+public class Engine {
+	String type;
+	
+	public Engine() {
+		type = "V8";
+	}
+}

@@ -1,0 +1,9 @@
+package org.javacoders;
+
+import org.springframework.context.annotation*;
+
+@Configuration
+@ConponentScan("org.javacoders")
+public class AppConfig {
+
+}

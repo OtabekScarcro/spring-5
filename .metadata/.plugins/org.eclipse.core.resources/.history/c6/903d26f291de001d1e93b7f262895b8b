@@ -1,0 +1,7 @@
+package org.javacoders.specs;
+
+import org.javacoders.interfaces.Engine;
+
+public class EnginType implements Engine{
+
+}

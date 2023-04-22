@@ -1,0 +1,18 @@
+package org.javacoders.cars;
+
+import org.javacoders.interfaces.Car;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+
+@Component
+public class Corolla implements Car {
+
+	@Autowired
+	Engine engine;
+	
+	@Override
+	public String specs() {
+		return "Sedan from Tayota with engine type as "+engine.type;;
+	}
+
+}

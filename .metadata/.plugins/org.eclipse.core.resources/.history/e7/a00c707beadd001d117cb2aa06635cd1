@@ -1,0 +1,29 @@
+package org.javacoders;
+
+import org.javacoders.cars.Corolla;
+import org.springframework.context.annotation.*;
+
+@Configuration
+@ComponentScan("org.javacoders")
+public class AppConfig {
+	
+	@Bean("corolla")
+	public Corolla corolla() {
+		return new Corolla();
+	}
+	
+	@Bean("swift")
+	public Swift swift() {
+		return new Corolla();
+	}
+	
+	@Bean("myCorolla")
+	public Corolla corolla() {
+		return new Corolla();
+	}
+	
+	@Bean("myCorolla")
+	public Corolla corolla() {
+		return new Corolla();
+	}
+}

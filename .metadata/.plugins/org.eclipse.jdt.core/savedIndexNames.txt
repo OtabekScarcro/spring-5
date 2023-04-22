@@ -1,0 +1,10 @@
+INDEX VERSION 1.132+C:\Users\otabo\Documents\Spring5\.metadata\.plugins\org.eclipse.jdt.core
+9053926.index
+1472255239.index
+2196400108.index
+1575618378.index
+1796371289.index
+2677346557.index
+1706799817.index
+1865797976.index
+776860229.index

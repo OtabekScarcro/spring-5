@@ -1,0 +1,14 @@
+package org.javacoders.cars;
+
+import org.javacoders.interfaces.Car;
+import org.springframework.stereotype.Component;
+
+@Component("corolla")
+public class Corolla implements Car {
+
+	@Override
+	public String specs() {
+		return "Sedan from Tayota";
+	}
+
+}

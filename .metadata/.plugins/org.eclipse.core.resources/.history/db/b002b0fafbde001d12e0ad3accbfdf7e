@@ -1,0 +1,6 @@
+package org.javacoders;
+
+@Controller
+public class MainController {
+
+}
