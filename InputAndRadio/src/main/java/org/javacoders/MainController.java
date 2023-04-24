@@ -1,40 +1,27 @@
 package org.javacoders;
 
-import java.util.ArrayList;
-import java.util.Date;
-import java.util.List;
-
+import org.javacoders.model.User;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
-import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.ModelAttribute;
+import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.servlet.ModelAndView;
 
 @Controller
 public class MainController {
 	
-	@RequestMapping(value = "/", method = RequestMethod.GET)
-	public String welcome() {
-		return "hello";
+	@GetMapping("/")
+	public ModelAndView home() {
+		ModelAndView modelAndView = new ModelAndView("userFormView");
+		User user = new User();
+		modelAndView.addObject("user", user);
+		return modelAndView;
 	}
-
-	@GetMapping("displayname")
-	public ModelAndView displayName(@RequestParam("firstName") String firstName) {
-		ModelAndView modelandview = new ModelAndView("displayName");
-		
-		Date date = new Date();
-		
-		List<String> users = new ArrayList<>();
-		users.add("Otabek");
-		users.add("Asrorbek");
-		users.add("Javohir");
-		users.add("Ilhombek");
-		users.add("Diyorbek");
-		
-		modelandview.addObject("users", users);
-		modelandview.addObject("date", date);
-		modelandview.addObject("name", firstName);
-		return modelandview;
+	
+	@PostMapping("/displayUserInfo")
+	public ModelAndView displayUserInfo(@ModelAttribute User user) {
+		ModelAndView modelAndView = new ModelAndView("displayUserInfo");
+		modelAndView.addObject("user", user);
+		return modelAndView;
 	}
 }
