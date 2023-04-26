@@ -1,7 +1,0 @@
-package org.javacoders;
-
-@Configuration
-@ConponentScan("org.javacoders")
-public class AppConfig {
-
-}

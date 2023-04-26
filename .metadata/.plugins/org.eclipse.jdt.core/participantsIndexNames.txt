@@ -1,14 +1,26 @@
 INDEX VERSION 1.132
 C:\Users\otabo\Documents\Spring5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\13043816.index
 \BasicFormWithSpringMVC\src\main\java
+C:\Users\otabo\Documents\Spring5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2504107102.index
+\S09L02-AddExternalResources\src\main\java
+C:\Users\otabo\Documents\Spring5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1161780586.index
+\S10L03-RepopulateFormData\src\main\java
 C:\Users\otabo\Documents\Spring5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1888828017.index
 \GettingStartedWithForms\src\main\java
 C:\Users\otabo\Documents\Spring5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1287258510.index
 \SpringMVC_MinimalSetup\src\main\java
 C:\Users\otabo\Documents\Spring5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3479534115.index
 \RadioButtonsAndBackground\src\main\java
+C:\Users\otabo\Documents\Spring5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3816193793.index
+\TextArea\src\main\java
+C:\Users\otabo\Documents\Spring5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2266912514.index
+\S10L02-HibernateValidatorIntroduction\src\main\java
 C:\Users\otabo\Documents\Spring5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\823934024.index
 \InputAndRadio\src\main\java
+C:\Users\otabo\Documents\Spring5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\796309027.index
+\S10L04-ModelMap&SimplifyingController\src\main\java
+C:\Users\otabo\Documents\Spring5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3323466442.index
+\CheckBoxes\src\main\java
 C:\Users\otabo\Documents\Spring5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3871154346.index
 \SpringMVC_MinimalSetup\src\main\java
 C:\Users\otabo\Documents\Spring5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\670372936.index

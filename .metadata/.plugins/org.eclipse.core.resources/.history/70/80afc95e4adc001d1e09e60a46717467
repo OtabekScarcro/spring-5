@@ -1,7 +1,0 @@
-package org.javacoders.cars;
-
-import org.javacoders.interfaces.Car;
-
-public class Corolla implements Car {
-
-}
