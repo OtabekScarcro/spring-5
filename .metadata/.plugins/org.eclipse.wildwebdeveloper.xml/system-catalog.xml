@@ -236,4 +236,6 @@
 <uri name="http://www.w3.org/2001/XMLSchema" uri="file:///C:/eclipse/configuration/org.eclipse.osgi/874/0/.cp/cache/www.w3.org/2001/XMLSchema.xsd"/>
 <system systemId="http://www.w3.org/2001/xml.xsd" uri="file:///C:/eclipse/configuration/org.eclipse.osgi/874/0/.cp/cache/www.w3.org/2001/xml.xsd"/>
 <uri name="http://www.w3.org/2001/XInclude" uri="file:///C:/eclipse/configuration/org.eclipse.osgi/856/0/.cp/xslt-schemas/xinclude.xsd"/>
+<public publicId="-//SPRING//DTD BEAN 2.0//EN" uri="file:///C:/eclipse/configuration/org.eclipse.osgi/1026/0/.cp/org/springframework/beans/factory/xml/spring-beans-2.0.dtd"/>
+<public publicId="-//LOG4J//DTD LOG4J//EN" uri="file:///C:/eclipse/configuration/org.eclipse.osgi/1116/0/.cp/dtd/log4j-1.2.dtd"/>
 </catalog>

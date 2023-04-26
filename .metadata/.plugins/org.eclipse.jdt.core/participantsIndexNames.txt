@@ -1,10 +1,10 @@
 INDEX VERSION 1.132
 C:\Users\otabo\Documents\Spring5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\13043816.index
 \BasicFormWithSpringMVC\src\main\java
-C:\Users\otabo\Documents\Spring5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2504107102.index
-\S09L02-AddExternalResources\src\main\java
 C:\Users\otabo\Documents\Spring5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1161780586.index
 \S10L03-RepopulateFormData\src\main\java
+C:\Users\otabo\Documents\Spring5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2504107102.index
+\S09L02-AddExternalResources\src\main\java
 C:\Users\otabo\Documents\Spring5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1888828017.index
 \GettingStartedWithForms\src\main\java
 C:\Users\otabo\Documents\Spring5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1287258510.index
@@ -15,6 +15,8 @@ C:\Users\otabo\Documents\Spring5\.metadata\.plugins\org.eclipse.jst.jsp.core\jsp
 \TextArea\src\main\java
 C:\Users\otabo\Documents\Spring5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2266912514.index
 \S10L02-HibernateValidatorIntroduction\src\main\java
+C:\Users\otabo\Documents\Spring5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3752419201.index
+\S10L05-DinamicWebProjectApproach\src\main\java
 C:\Users\otabo\Documents\Spring5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\823934024.index
 \InputAndRadio\src\main\java
 C:\Users\otabo\Documents\Spring5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\796309027.index
@@ -25,9 +27,11 @@ C:\Users\otabo\Documents\Spring5\.metadata\.plugins\org.eclipse.jst.jsp.core\jsp
 \SpringMVC_MinimalSetup\src\main\java
 C:\Users\otabo\Documents\Spring5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\670372936.index
 \RequestParamAndModelUnderSpringMVC\src\main\java
+C:\Users\otabo\Documents\Spring5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\547128278.index
+\S10L05-DinamicWebProjectApproach\src\main\java
 C:\Users\otabo\Documents\Spring5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\883377479.index
 \BasicFormWithSpringMVC\src\main\java
-C:\Users\otabo\Documents\Spring5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2695968789.index
-\ModelAndView\src\main\java
 C:\Users\otabo\Documents\Spring5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1315965896.index
 \DropdownList\src\main\java
+C:\Users\otabo\Documents\Spring5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2695968789.index
+\ModelAndView\src\main\java
