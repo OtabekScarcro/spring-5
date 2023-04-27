@@ -1,6 +1,6 @@
 package org.javacoders;
 
-import org.javacoders.model.User;
+import org.javacoders.spring.model.User;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
 import org.springframework.validation.BindingResult;
