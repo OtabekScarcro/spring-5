@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="S10L03-RepopulateFormData"/>
+<aop-project name="S10L05-DinamicWebProjectApproach"/>
+<aop-project name="S10L05-DWPApproach"/>
+<aop-project name="S21L03-AddingAddUserLink"/>
+<aop-project name="S21L01-DefiningAnnotations"/>
+<aop-project name="S10L02-HibernateValidatorIntroduction"/>
+<aop-project name="S10L04-ModelMap&amp;SimplifyingController"/>
+<aop-project name="S09L02-AddExternalResources"/>
+</aop-reference-model>

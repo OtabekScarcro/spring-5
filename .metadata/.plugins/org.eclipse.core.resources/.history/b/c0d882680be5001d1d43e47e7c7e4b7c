@@ -1,0 +1,10 @@
+package org.javacoders.spring;
+
+import org.springframework.web.bind.annotation.ExceptionHandler;
+
+public class ExceptionHandler {
+	@ExceptionHandler(Exception.class)
+	public String exceptionHandler(Exception ex) {
+		return "error";
+	}
+}

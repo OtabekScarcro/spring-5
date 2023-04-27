@@ -1,0 +1,15 @@
+package org.javacoders.spring.model;
+
+public class User {
+	private int userId;
+	private String name;
+	private String email;
+	
+	public User() {}
+	
+	@Override
+	public String toString() {
+		return "User [userId=" + userId + ", username=" + username + ", email=" + email + "]";
+	}
+	
+}

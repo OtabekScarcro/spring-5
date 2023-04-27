@@ -1,0 +1,9 @@
+package org.javacoders.spring;
+
+
+public class ExceptionHandler {
+	@ExceptionHandler(Exception.class)
+	public String exceptionHandler(Exception ex) {
+		return "error";
+	}
+}

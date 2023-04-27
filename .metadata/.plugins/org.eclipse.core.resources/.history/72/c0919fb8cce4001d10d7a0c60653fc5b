@@ -1,0 +1,26 @@
+package org.javacoders.spring.model;
+
+import jakarta.validation.constraints.Email;
+
+public class User {
+	private int userId;
+	private String name;
+	private String gender;
+	private String email;
+	private String country;
+	@Email
+	private String introduction;
+	private String visitedCountries[];
+	public User(int userId, String name, String gender, String email, String country, @Email String introduction,
+			String[] visitedCountries) {
+		this.userId = userId;
+		this.name = name;
+		this.gender = gender;
+		this.email = email;
+		this.country = country;
+		this.introduction = introduction;
+		this.visitedCountries = visitedCountries;
+	}
+	
+	
+}

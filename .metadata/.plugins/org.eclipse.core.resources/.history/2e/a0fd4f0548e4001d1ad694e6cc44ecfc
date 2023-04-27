@@ -1,0 +1,6 @@
+package org.javacoders.spring;
+
+@Controller
+public class AppController {
+
+}

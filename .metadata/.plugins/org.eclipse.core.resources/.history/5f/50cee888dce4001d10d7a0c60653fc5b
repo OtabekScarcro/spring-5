@@ -1,0 +1,11 @@
+package org.javacoders.spring.config;
+
+import javax.sql.DataSource;
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class AppConfig {
+	public DataSource getDataSource() {
+		DriverManagerDataSource
+	}
+}
