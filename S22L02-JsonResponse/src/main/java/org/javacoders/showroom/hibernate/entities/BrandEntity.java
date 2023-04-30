@@ -11,10 +11,10 @@ public class BrandEntity {
 	
 	@Id
 	@Column(name="brandId")
-	private int brandId;
+	int brandId;
 	
 	@Column(name="brandName")
-	private String brandName;
+	String brandName;
 	
 	public BrandEntity() {}
 
@@ -39,14 +39,5 @@ public class BrandEntity {
 		this.brandName = brandName;
 	}
 
-	@Override
-	public String toString() {
-		return "BrandEntity [brandId=" + brandId + ", brandName=" + brandName + "]";
-	}
-
-	public void addBrand(BrandEntity brand) {
-		// TODO Auto-generated method stub
-		
-	}
 	
 }

@@ -2,13 +2,10 @@ package org.javacoders.showroom.hibernate.DAO;
 
 import java.util.List;
 
-import javax.xml.stream.FactoryConfigurationError;
-
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 import org.javacoders.showroom.hibernate.entities.BrandEntity;
-
 
 public class BrandsDAO {
 
@@ -17,11 +14,13 @@ public class BrandsDAO {
 			.addAnnotatedClass(BrandEntity.class)
 			.buildSessionFactory();
 	
+	@SuppressWarnings("deprecation")
 	public List<BrandEntity> getBrands() {
 		Session session = factory.getCurrentSession();
 		session.beginTransaction();
-		List<BrandEntity> list = session.createQuery("from brands").getResultList();
-		System.out.println(list);
+		@SuppressWarnings("unchecked")
+		List<BrandEntity> list = session.createQuery("from brands")
+										.getResultList();
 		return list;
 	}
 

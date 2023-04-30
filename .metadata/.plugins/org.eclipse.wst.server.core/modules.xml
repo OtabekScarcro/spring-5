@@ -2,5 +2,6 @@
 <modules>
   <module moduleId="org.eclipse.jst.j2ee.server:S10L05-DWPApproach" serverId="Tomcat v10.1 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:SpringMVC_MinimalSetup" serverId="Tomcat v10.1 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:S22L02-JsonResponse" serverId="Tomcat v10.1 Server at localhost"/>
   <module moduleId="org.eclipse.jst.j2ee.server:S21L03-AddingAddUserLink" serverId="Tomcat v10.1 Server at localhost"/>
 </modules>

@@ -1,3 +1,5 @@
+//com.springsource.config.ui.prefs.activePageIndex\:/S10L02-HibernateValidatorIntroduction/src/main/webapp/WEB-INF/Sample.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/S10L02-HibernateValidatorIntroduction/src/main/webapp/WEB-INF/SpringSample-servlet.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
 //com.springsource.config.ui.prefs.activePageIndex\:/S10L05-DWPApproach/src/main/java/org/javacoders/spring/DAO/Spring-AppDAOConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
 //com.springsource.config.ui.prefs.activePageIndex\:/S10L05-DinamicWebProjectApproach/src/main/java/org/javacoders/spring/DAO/Spring-AppDAOConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
 //com.springsource.config.ui.prefs.activePageIndex\:/S21L01-DefiningAnnotations/src/main/java/org/javacoders/spring/DAO/Spring-AppDAOConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
