@@ -1,5 +1,0 @@
-package org.javacoders.spring.DAO;
-
-public interface AppDAO {
-
-}
