@@ -1,9 +1,0 @@
-package org.javacoders.spring.config;
-
-import javax.sql.DataSource;
-
-public class AppConfig {
-	public DataSource getDataSource() {
-		
-	}
-}

@@ -22,6 +22,14 @@
 		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
@@ -52,13 +60,10 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="org.javacoders.S23L00_NewMavenProject"/>
 		</list>
 		<list key="groupId">
-			<item value="org.javacoders"/>
 		</list>
 		<list key="artifactId">
-			<item value="S23L00-NewMavenProject"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -74,10 +79,16 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="org.javacoders"/>
+			<item value="org.javacoders.springBoot"/>
 		</list>
 		<list key="name">
+			<item value="S25L01-Starter"/>
+			<item value="S25L00-SpringApp"/>
 		</list>
 		<list key="artifactId">
+			<item value="S25L01-Starter"/>
+			<item value="starter-project"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
