@@ -1,5 +1,6 @@
 package org.javacoders.showroom.hibernate.DAO;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import org.hibernate.Session;
@@ -21,10 +22,19 @@ public class ProductsDAO {
 		Session session = factory.getCurrentSession();
 		session.beginTransaction();
 		List<ProductEntity> productList;
-		String sql = "from products where brandId = " + brandId;
+		List<ProductEntity> list = new ArrayList<ProductEntity>();
+		
+		String sql = "from products";
 		productList = session.createQuery(sql).getResultList();
-		System.out.println(productList);
-		return productList;
+		
+		for(ProductEntity e : productList) {
+			if(e.getBrandEntity().getBrandId() == brandId) {
+				list.add(e);
+			}
+		}
+		
+		System.out.println(list);
+		return list;
 	}
 	
 }

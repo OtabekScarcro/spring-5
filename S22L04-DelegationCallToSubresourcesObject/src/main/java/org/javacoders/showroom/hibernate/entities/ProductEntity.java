@@ -31,13 +31,20 @@ public class ProductEntity {
 
 	public ProductEntity() {}
 	
-//	public ProductEntity(int productId, BrandEntity brandEntity, String productName, String category, String cost) {
-//		this.productId = productId;
-//		this.brandEntity = brandEntity;
-//		this.productName = productName;
-//		this.category = category;
-//		this.cost = cost;
-//	}
+	public ProductEntity(int productId, String productName, String category, String cost) {
+		this.productId = productId;
+		this.productName = productName;
+		this.category = category;
+		this.cost = cost;
+	}
+
+	public ProductEntity(int productId, BrandEntity brandEntity, String productName, String category, String cost) {
+		this.productId = productId;
+		this.brandEntity = brandEntity;
+		this.productName = productName;
+		this.category = category;
+		this.cost = cost;
+	}
 
 
 	public int getProductId() {

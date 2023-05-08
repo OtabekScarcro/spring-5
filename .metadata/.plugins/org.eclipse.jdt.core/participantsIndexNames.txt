@@ -27,6 +27,8 @@ C:\Users\otabo\Documents\Spring5\.metadata\.plugins\org.eclipse.jst.jsp.core\jsp
 \S24L06-PutAndDeleteOperations\src\main\java
 C:\Users\otabo\Documents\Spring5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\13043816.index
 \BasicFormWithSpringMVC\src\main\java
+C:\Users\otabo\Documents\Spring5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1529244770.index
+\S69L00-Store\src\main\java
 C:\Users\otabo\Documents\Spring5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3752419201.index
 \S10L05-DinamicWebProjectApproach\src\main\java
 C:\Users\otabo\Documents\Spring5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3704723338.index

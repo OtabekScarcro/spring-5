@@ -1,22 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.mysql.cj.Session"/>
-    <fullyQualifiedTypeName name="org.hibernate.SessionFactory"/>
-    <fullyQualifiedTypeName name="org.hibernate.Session"/>
-    <fullyQualifiedTypeName name="jakarta.persistence.Entity"/>
-    <fullyQualifiedTypeName name="jakarta.persistence.Table"/>
-    <fullyQualifiedTypeName name="jakarta.persistence.Id"/>
-    <fullyQualifiedTypeName name="jakarta.persistence.Column"/>
-    <fullyQualifiedTypeName name="org.javacoders.showroom.services.ProductsService"/>
-    <fullyQualifiedTypeName name="org.javacoders.showroom.hibernate.entities.ProductEntity"/>
-    <fullyQualifiedTypeName name="jakarta.persistence.ManyToOne"/>
-    <fullyQualifiedTypeName name="jakarta.persistence.JoinColumn"/>
-    <fullyQualifiedTypeName name="org.javacoders.showroom.hibernate.entities.BrandEntity"/>
-    <fullyQualifiedTypeName name="jakarta.ws.rs.HeaderParam"/>
-    <fullyQualifiedTypeName name="jakarta.ws.rs.CookieParam"/>
-    <fullyQualifiedTypeName name="jakarta.servlet.ServletContext"/>
-    <fullyQualifiedTypeName name="jakarta.ws.rs.GET"/>
-    <fullyQualifiedTypeName name="jakarta.ws.rs.core.HttpHeaders"/>
     <fullyQualifiedTypeName name="jakarta.transaction.Status"/>
     <fullyQualifiedTypeName name="jakarta.persistence.GeneratedValue"/>
     <fullyQualifiedTypeName name="jakarta.persistence.GenerationType"/>
@@ -32,7 +15,6 @@
     <fullyQualifiedTypeName name="jakarta.ws.rs.core.UriInfo"/>
     <fullyQualifiedTypeName name="jakarta.validation.constraints.AssertFalse.List"/>
     <fullyQualifiedTypeName name="java.util.List"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="org.javacoders.showroom.model.Link"/>
     <fullyQualifiedTypeName name="jakarta.ws.rs.Path"/>
     <fullyQualifiedTypeName name="org.javacoders.showroom.resources.Products"/>
@@ -55,9 +37,27 @@
     <fullyQualifiedTypeName name="org.javacoders.model.Brand"/>
     <fullyQualifiedTypeName name="jakarta.ws.rs.core.MediaType"/>
     <fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.SpringBootApplication"/>
-    <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
     <fullyQualifiedTypeName name="org.springframework.boot.web.servlet.support.SpringBootServletInitializer"/>
     <fullyQualifiedTypeName name="org.springframework.boot.builder.SpringApplicationBuilder"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+    <fullyQualifiedTypeName name="org.javacoders.services.PostsService"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMethod"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="org.javacoders.entity.Post"/>
+    <fullyQualifiedTypeName name="org.javacoders.repository.PostRepository"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Entity"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Table"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Id"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Column"/>
+    <fullyQualifiedTypeName name="javax.persistence.Id"/>
+    <fullyQualifiedTypeName name="javax.persistence.Entity"/>
+    <fullyQualifiedTypeName name="javax.persistence.Table"/>
+    <fullyQualifiedTypeName name="javax.persistence.Column"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.web.servlet.ModelAndView"/>
+    <fullyQualifiedTypeName name="org.javacoders.model.Devices"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>

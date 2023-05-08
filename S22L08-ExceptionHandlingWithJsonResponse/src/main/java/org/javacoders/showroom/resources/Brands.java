@@ -6,7 +6,6 @@ import java.util.List;
 import org.javacoders.showroom.model.Brand;
 import org.javacoders.showroom.services.BrandsService;
 
-import jakarta.ws.rs.core.Response.Status;
 import jakarta.ws.rs.core.UriInfo;
 import jakarta.ws.rs.Consumes;
 import jakarta.ws.rs.DELETE;
