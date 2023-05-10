@@ -3,10 +3,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="ISO-8859-1">
-<title>Samsung Devices</title>
+	<meta charset="ISO-8859-1">
+	<title>Error page</title>
 </head>
 <body>
-${devices}
+	Something went wrong!
 </body>
 </html>

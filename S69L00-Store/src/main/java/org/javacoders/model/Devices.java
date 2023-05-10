@@ -2,17 +2,10 @@ package org.javacoders.model;
 
 import java.util.List;
 
-public class Devices {
+public class Devices{
     List<Device> devices;
-    private String brandName = "Samsung";
-
-    public String getBrandName() {
-        return brandName;
-    }
-
-    public void setBrandName(String brandName) {
-        this.brandName = brandName;
-    }
+    
+    String brandName = "Samsung";
 
     public Devices() {}
 
@@ -26,6 +19,14 @@ public class Devices {
 
     public void setDevices(List<Device> devices) {
         this.devices = devices;
+    }
+    
+    public String getBrandName() {
+        return brandName;
+    }
+
+    public void setBrandName(String brandName) {
+        this.brandName = brandName;
     }
 
     @Override

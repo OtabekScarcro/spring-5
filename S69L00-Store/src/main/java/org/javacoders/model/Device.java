@@ -1,10 +1,10 @@
 package org.javacoders.model;
 
 public class Device {
-    private String name;
-    private String type;
+    String name;
+    String type;
 
-    public Device(String type) {}
+    public Device() {}
 
     public Device(String name, String type) {
         this.name = name;

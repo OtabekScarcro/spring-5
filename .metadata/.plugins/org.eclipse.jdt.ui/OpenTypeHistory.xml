@@ -2,4 +2,5 @@
 <typeInfoHistroy>
     <typeInfo handle="=DependencyInjection/src=/optional=/true=/=/maven.pomderived=/true=/&lt;org.javacoders.interfaces{Engine.java[Engine" modifiers="513" timestamp="1681819761051"/>
     <typeInfo handle="=S10L05-DinamicWebProjectApproach/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;org.javacoders.spring.DAO{AppDAOImpl.java[AppDAOImpl" modifiers="1" timestamp="1682531124847"/>
+    <typeInfo handle="=S69L00-Store/C:\/Users\/otabo\/.m2\/repository\/org\/springframework\/boot\/spring-boot\/3.0.6\/spring-boot-3.0.6.jar=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.boot=/=/maven.artifactId=/spring-boot=/=/maven.version=/3.0.6=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.springframework.boot.web.servlet.error(ErrorController.class[ErrorController" modifiers="1537" timestamp="1683182430594"/>
 </typeInfoHistroy>
